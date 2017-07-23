@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DisplayPoints</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="default_points">1</string>
+
+    <string name="title_activity_points_screen">PointsScreen</string>
+</resources>
